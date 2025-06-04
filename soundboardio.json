@@ -3,7 +3,7 @@
   "shortName": "sandlot33-walkup",
   "description": "Grip it and rip it!",
   "story": [
-    "This soundboard was created for the Sandlot 10u team (Class of 2033) in June of 2025 by an athlete's parent",
+    "This soundboard was created for the Sandlot 10u team (Class of 2033) in June of 2025 by an athlete's parent"
   ],
   "color": "#943100",
   "rootUrl": "sounds/",
@@ -41,16 +41,15 @@
       "filename": "nono.mp3"
     },
     {
+      "name": "What's the matter?",
+      "filename": "matter.mp3"
+    },
+    {
       "name": "What ain't no country",
       "filename": "countryfrom-2.mp3",
       "tags": [
         "Country"
       ]
-    },
-   
-    {
-      "name": "What's da matter?",
-      "filename": "matter.mp3"
     }
   ],
   "references": [
