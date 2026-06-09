@@ -87,7 +87,11 @@
             "filename": "55LM.mp3"
         },
         {
-            "name": "BYE BYE (Strikeout/Out)",
+            "name": "BYE! BYE! BYE! (Strikeout/Out)",
+            "filename": "ByeBye.mp3"
+        },
+        {
+            "name": "Beat It! (Steal)",
             "filename": "ByeBye.mp3"
         }
     ]
