@@ -45,10 +45,46 @@
         {
             "name": "Collin Zuber (21)",
             "filename": "21CZ.mp3"
-        }        ,
+        },
         {
             "name": "Brooks Meyer (99)",
             "filename": "99BM.mp3"
+        },
+        {
+            "name": "WIP Murray Hoene (4)",
+            "filename": "04MH.mp3"
+        },
+        {
+            "name": "WIP Eli Imburgia (11)",
+            "filename": "11EI.mp3"
+        },
+        {
+            "name": "WIP Ryan Bergfeld (9)",
+            "filename": "09RB.mp3"
+        },
+        {
+            "name": "WIP Watson Lee (10)",
+            "filename": "10WL.mp3"
+        },
+        {
+            "name": "WIP Ben Niemerg (19)",
+            "filename": "19BN.mp3"
+        },
+        {
+            "name": "WIP Charlie Debenham (27)",
+            "filename": "27CD.mp3"
+        },
+        {
+            "name": "WIP Ian Thoele (32)",
+            "filename": "32ET.mp3"
+        },
+        {
+            "name": "WIP Nick Kocher (33)",
+            "filename": "33NK.mp3"
+        },
+        {
+            "name": "WIP Leo Mette (55)",
+            "filename": "55LM.mp3"
         }
     ]
 }
