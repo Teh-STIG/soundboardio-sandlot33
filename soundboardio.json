@@ -27,10 +27,6 @@
     ],
     "tiles": [
         {
-            "name": "Yes!",
-            "filename": "yes.mp3"
-        },
-        {
             "name": "No no no",
             "filename": "nono.mp3"
         },
