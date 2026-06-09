@@ -27,14 +27,6 @@
     ],
     "tiles": [
         {
-            "name": "No no no",
-            "filename": "nono.mp3"
-        },
-        {
-            "name": "What's the matter?",
-            "filename": "matter.mp3"
-        },
-        {
             "name": "What ain't no country",
             "filename": "countryfrom-2.mp3"
         },
