@@ -93,6 +93,10 @@
         {
             "name": "Beat It! (Steal)",
             "filename": "BeatIT.mp3"
+        },
+        {
+            "name": "Smooth Criminal (Caught Stealing)",
+            "filename": "SmoothCriminal.mp3"
         }
     ]
 }
