@@ -31,16 +31,20 @@
             "filename": "blank.mp3"
         },
         {
-            "name": "John Myers",
+            "name": "John Myers (54)",
             "filename": "54JM.mp3"
         },
         {
-            "name": "Jake Buscher",
+            "name": "Jake Buscher (23)",
             "filename": "23JB.mp3"
         },
         {
-            "name": "Cooper Parker",
+            "name": "Cooper Parker (24)",
             "filename": "24CP.mp3"
+        },
+        {
+            "name": "Collin Zuber (21)",
+            "filename": "21CZ.mp3"
         }
     ],
     "references": [
