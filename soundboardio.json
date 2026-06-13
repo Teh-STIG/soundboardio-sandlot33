@@ -101,6 +101,74 @@
         {
             "name": "JUST A Bit Outside",
             "filename": "JustABitOutside.mp3"
+        },
+        {
+            "name": "Classic Baseball CHARGE",
+            "filename": "baseball-classic-charge-123.mp3"
+        },
+        {
+            "name": "OUT - MarioDead",
+            "filename": "out-mario-death.mp3"
+        },        
+        {
+            "name": "OUT - PackmanDead",
+            "filename": "pac-man-dies.mp3"
+        },
+        {
+            "name": "FOUL BALL - Break Glass",
+            "filename": "breaking-glass-smashing-window-breaking-mirror-sound-effect.mp3"
+        },
+        {
+            "name": "FOUL BALL - Price is Right BUM BUM BUM",
+            "filename": "k-the-price-is-right-losing-horn.mp3"
+        },
+        {
+            "name": "HBP - Hit me with your best shot",
+            "filename": "hbp-hit-me-best-shot.mp3"
+        },
+        {
+            "name": "HBP - Hurt so good",
+            "filename": "hbp-hurt-so-good.mp3"
+        },
+        {
+            "name": "HYPE - DAYO",
+            "filename": "hype-dayyyy-oh.mp3"
+        },
+        {
+            "name": "HYPE - Everybody Clap Yo' Hands!",
+            "filename": "hype-everybody-clap-yo-hands.mp3"
+        },
+        {
+            "name": "HYPE - ZombieNation",
+            "filename": "hype-kernkraft.mp3"
+        },
+        {
+            "name": "HYPE - WelcomeToJungleIntro",
+            "filename": "welcome-to-the-jungle-intro.mp3"
+        },
+        {
+            "name": "HYPE - LouieLouie",
+            "filename": "hype-louie-louie.mp3"
+        },
+        {
+            "name": "HYPE - PBJ TIME!",
+            "filename": "hype-peanut-butter-jelly-time.mp3"
+        },
+        {
+            "name": "HYPE - Uptown Funk",
+            "filename": "hype-uptown-funk.mp3"
+        },
+        {
+            "name": "HYPE - Uptown Funk",
+            "filename": "hype-uptown-funk.mp3"
+        },
+        {
+            "name": "HYPE - Uptown Funk",
+            "filename": "hype-uptown-funk.mp3"
+        },
+        {
+            "name": "HYPE - MachineHead",
+            "filename": "machine-head-intro.mp3"
         }
     ]
 }
