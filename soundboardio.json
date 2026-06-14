@@ -97,6 +97,18 @@
         {
             "name": "Smooth Criminal (Caught Stealing)",
             "filename": "SmoothCriminal.mp3"
+        }, 
+        {
+            "name": "StolenBase-CantTouchThis",
+            "filename": "sb-can-t-touch-this.mp3"
+        }, 
+        {
+            "name": "StolenBase-RoadRunnerMeepMeep",
+            "filename": "sb-road-runner-meep-meep.mp3"
+        }, 
+        {
+            "name": "StolenBase-LifeInTheFastlane",
+            "filename": "sb-life-in-fastlane.mp3"
         },
         {
             "name": "JUST A Bit Outside",
@@ -113,10 +125,46 @@
         {
             "name": "OUT - PackmanDead",
             "filename": "pac-man-dies.mp3"
+        },        
+        {
+            "name": "OUT - JT-WalkAway",
+            "filename": "o-walk-away-jt.mp3"
+        },        
+        {
+            "name": "OUT - Wipeout",
+            "filename": "k-wipeout.mp3"
+        },        
+        {
+            "name": "OUT - That's Nasty (Clevland-Family Guy)",
+            "filename": "k-nasty-cleveland.mp3"
+        },        
+        {
+            "name": "OUT - BitesTheDust",
+            "filename": "k-bites-the-dust.mp3"
+        },        
+        {
+            "name": "Third Out - Defense",
+            "filename": "level-complete.mp3"
         },
+  
         {
             "name": "FOUL BALL - Break Glass",
             "filename": "breaking-glass-smashing-window-breaking-mirror-sound-effect.mp3"
+        },
+  
+        {
+            "name": "FOUL BALL - GlassWithAlarm",
+            "filename": "f-glass-alarm.mp3"
+        },
+  
+        {
+            "name": "FOUL BALL - FORE!",
+            "filename": "f-fore.mp3"
+        },
+  
+        {
+            "name": "FOUL BALL - HAW HAW",
+            "filename": "f-haw-haw.mp3"
         },
         {
             "name": "FOUL BALL - Price is Right BUM BUM BUM",
@@ -151,6 +199,10 @@
             "filename": "hype-louie-louie.mp3"
         },
         {
+            "name": "HYPE - WeWillRockYou",
+            "filename": "hype-rock-u.mp3"
+        },
+        {
             "name": "HYPE - PBJ TIME!",
             "filename": "hype-peanut-butter-jelly-time.mp3"
         },
@@ -159,8 +211,112 @@
             "filename": "hype-uptown-funk.mp3"
         },
         {
+            "name": "HYPE - LetsGetReadyToRumble",
+            "filename": "gs-lets-get-ready-to-rumble.mp3"
+        },
+        {
+            "name": "HYPE - GreatPlay-ESPN",
+            "filename": "g-espn.mp3"
+        },
+        {
             "name": "HYPE - MachineHead",
             "filename": "machine-head-intro.mp3"
+        },
+        {
+            "name": "Inning-PlayThatFunkyMusic",
+            "filename": "t-play-that-funky-music.mp3"
+        },
+        {
+            "name": "Inning-Kashmir-LedZeplin",
+            "filename": "t-kashmir-led-zeplin.mp3"
+        },
+        {
+            "name": "Inning-GreenOnions",
+            "filename": "t-green-onions.mp3"
+        },
+        {
+            "name": "Inning-DangerZone",
+            "filename": "hype-top-gun-dangerzone.mp3"
+        },
+        {
+            "name": "Inning-VengaBus-WeLikeToParty",
+            "filename": "hype-VengaBus-WeLikeToParty.mp3"
+        },
+        {
+            "name": "Inning-Macklamore-CantHoldUs",
+            "filename": "hype-cant-hold-us.mp3"
+        },
+        {
+            "name": "Inning-VivaLaVida",
+            "filename": "t-viva-la-vida.mp3"
+        },
+        {
+            "name": "Inning-GangnamStyle",
+            "filename": "t-gangnam-style-original-video.mp3"
+        },
+        {
+            "name": "Inning-Rock-ComeWithMe",
+            "filename": "t-come-with-me-radio-version.mp3"
+        },
+        {
+            "name": "Inning-HandsClap",
+            "filename": "t-hand-clap.mp3"
+        },
+        {
+            "name": "Inning-ThankGodCountryBoy",
+            "filename": "t-thank-god-i-m-a-country-boy.mp3"
+        },
+        {
+            "name": "Inning-TurnDownForWhat?",
+            "filename": "t-turn-down-for-what-audio.mp3"
+        },
+        {
+            "name": "Inning-AhHa-TakeOnMe",
+            "filename": "t-take-on-me.mp3"
+        },
+        {
+            "name": "Inning-SweetChildOfMine",
+            "filename": "t-sweet-child-o-mine-official-music-video.mp3"
+        },
+        {
+            "name": "Inning-BlackEyedPeas-PumpITLouder!",
+            "filename": "t-pump-it-the-black-eyed-peas-clean-version.mp3"
+        },
+        {
+            "name": "Inning-PartyRockAnthem",
+            "filename": "t-party-rock-anthem.mp3"
+        },
+        {
+            "name": "Inning-KickStartMyHeart(OH! YEAH!)",
+            "filename": "t-kickstart-my-heart-remaster.mp3"
+        },
+        {
+            "name": "Inning-MichaelJackson-DontStopTillYouGetEnough",
+            "filename": "t-dont-stop-til-you-get-enough-official-video.mp3"
+        },
+        {
+            "name": "Inning-BlindingLights-TheWeekend",
+            "filename": "The Weeknd - Blinding Lights (Lyrics) [XwxLwG2_Sxk].mp3"
+        },
+        {
+            "name": "Inning-AllIDoIsWinWinWin",
+            "filename": "t-all-i-do-is-win-super-clean-edit.mp3"
+        },
+        {
+            "name": "Inning-LightEmUPUPUP-ONFIRE!",
+            "filename": "Fall Out Boy - My Songs Know What You Did In The Dark - Light 'Em Up (LYRICS) [JQ0lE7e3yfk].mp3"
+        },
+        {
+            "name": "Inning-AllIDoIsWinWinWin",
+            "filename": "t-all-i-do-is-win-super-clean-edit.mp3"
+        },
+        {
+            "name": "Inning-ThisisHowWeDoIt",
+            "filename": "i-this-is-how-we-do-it.mp3"
+        },
+        {
+            "name": "Take Me Out to the Ballgame",
+            "filename": "o-take-me-out-to-the-ballgame.mp3"
         }
     ]
 }
